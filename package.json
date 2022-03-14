@@ -1,12 +1,17 @@
 {
   "name": "ariaslabs-toolbox",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Personal toolset of useful tools.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariaslabs/ariaslabs-toolbox.git"
+  },
+  "keywords":["toolbox", "sleep", "log"],
   "author": "ariaslabs",
   "license": "ISC"
 }
+

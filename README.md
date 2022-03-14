@@ -23,6 +23,4 @@ async function myFunction() {
   await sleep(1000) //sleeps for 1 second
   //do stuff
 }
-
-//Output: Hello, World
 ```
